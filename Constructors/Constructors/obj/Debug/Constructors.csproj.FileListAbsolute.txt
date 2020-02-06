@@ -1,0 +1,6 @@
+D:\17...5f6\Constructors\Constructors\bin\Debug\Constructors.exe.config
+D:\17...5f6\Constructors\Constructors\bin\Debug\Constructors.exe
+D:\17...5f6\Constructors\Constructors\bin\Debug\Constructors.pdb
+D:\17...5f6\Constructors\Constructors\obj\Debug\Constructors.csprojResolveAssemblyReference.cache
+D:\17...5f6\Constructors\Constructors\obj\Debug\Constructors.exe
+D:\17...5f6\Constructors\Constructors\obj\Debug\Constructors.pdb
